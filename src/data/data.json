@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Welcome to the home of the Handyman!",
+    "paragraph": "Here at home of the Handyman, we would love for you to get to know a little bit about who we are and the services we offer."
+  },
+  "About": {
+    "paragraph": "We offer a variety of solutions that cater to your specific needs. Furthermore, we prioritize customer satisfaction by working neatly and timeously and by placing a huge emphasis on each customers specific wishes. We are so confident in our workmanship that we place a 6 month guarantee on all our custom solutions.",
+    "Why": [
+      "Affordable & Custom Solutions",
+      "Variety of Services",
+      "Timeous Delivery",      
+      "Priority on Neatness"
+    ],
+    "Why2": [
+      "Friendly & Respectful Staff",
+      "Flexibility",
+      "Quality Materials",
+      "Pride in what we do"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Electric Fence",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Jojo Tank",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Jojo Tank",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Jojo Tank",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Electric Fence",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Electric Fence",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Installed Blinds",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Blinds Installation",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Plumbing",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Electric Fencing",
+      "text": "The supply and installation of electric fencing customized to your needs and home layout. With electric fencing, there are many different types of materials and different aspects to installation. We will advise on the best solutions."
+    },
+    {
+      "icon": "fa fa-tank-water",
+      "name": "JoJo Tanks",
+      "text": "Similar to electric fencing, Jojo tank systems comprises of different materials, sizes, and uses. The yard will be assessed for possible locations and we will advise on possible setups."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Blinds Installation",
+      "text": "Once you've purchased the blinds of your choosing, the Handyman comes in to install any blind type for any room in your home. It's as simple as 1, 2, 3... Quick & easy!"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Minor Electrical",
+      "text": "The new norm is fancy... get standard or fancy light switches, plug points, and lights in general, supplied and installed. It really is your choice."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Minor Plumbing",
+      "text": "Kitchen sink plumbing and leaking pipework is no hassle at all."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "General Installations",
+      "text": "Most general items are also within our scope, such as TV and surround sound installation."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Thank you so much to the Handyman team. What a beautifully setup JoJo tank system. The pump makes watering my garden so easy. I now boast to all my friends. :-)\"",
+      "name": "Gregory Hammond"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I recently installed an electric fence, and wow, what a pleasure to have such a reliable and informative team on the job. My family feel so safe now. Great work Handyman.\"",
+      "name": "Franscois Coetzer"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I normally give small DIY tasks a try, but I was so nervous to drill into tile for my blinds. The Handyman came in, and Voila, in no time, my beautiful kitchen blinds were up and amazing!\"",
+      "name": "Jerry Matthews"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"This must have been one of the easier jobs for the Handyman, but they were so professional. My kitchen sink plumbing done with ease. No leaks, no hassles, no worries. I'm really happy with the work.\"",
+      "name": "Jannet Gouws"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I had all my plug points and light switches changed to the fancy ones. It was supplied, fitted, and tested within an hour, looking snazzy as hell. I would definitely recommend the Handyman.\"",
+      "name": "Damien Michaels"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I wanted my TV mounted and up and running. Being a single female, mounting was always going to be a challenge, the Handyman team came in and did it perfectly with the trunking as well. Extremely neat.\"",
+      "name": "Mia Grant"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "207 Damorosa Crescent, Moorton, 4092 ",
+    "phone": "+27 83 342 6476",
+    "email": "service@thehandyman.co.za",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
